@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+//Contoller is used to add various endpoints that are required for that particular microservice
 @RestController
 @RequestMapping("/api/product")
 @RequiredArgsConstructor

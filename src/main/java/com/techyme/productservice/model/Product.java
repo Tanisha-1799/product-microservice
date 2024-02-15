@@ -9,6 +9,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.math.BigDecimal;
 
+//Model provide the basic structure of the Object.
 @Document(value="product")
 @AllArgsConstructor     //Lambok annotations to getters and setters
 @NoArgsConstructor

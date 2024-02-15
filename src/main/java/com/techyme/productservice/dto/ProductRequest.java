@@ -7,6 +7,7 @@ import lombok.NoArgsConstructor;
 
 import java.math.BigDecimal;
 
+//Defining the request body parameters
 @Data
 @Builder
 @AllArgsConstructor

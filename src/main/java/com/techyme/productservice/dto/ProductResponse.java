@@ -9,6 +9,7 @@ import lombok.NoArgsConstructor;
 
 import java.math.BigDecimal;
 
+//Defining the response body parameters
 @Data
 @Builder
 @AllArgsConstructor
